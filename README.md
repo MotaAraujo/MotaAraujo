@@ -9,10 +9,10 @@
 - 🎸 Floyd maníaco (Fã do Pink Floyd)
 - 🌱 Apaixonado por plantas
 
-<div>
+<div style="display: inline_block">
   <a href="http://github.com/MotaAraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MotaAraujo&show_icons=true&theme=dark&reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotaAraujo&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MotaAraujo&show_icons=true&theme=dark&reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotaAraujo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
